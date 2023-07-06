@@ -1,1 +1,16 @@
-
+<bugReport>
+        <id>1</id>
+        <severity>Major</severity>
+        <environment>Win 10 Chrome 107 108 109 110 111 112 113 114</environment>
+        <title>The English version of the page 'Privacy Policy' in 'Sign up' form is linked to the link 'Privacy Policy' from any language except EN, DE</title>
+        <steps>
+                <step1>Navigate to capital.com</step1>
+                <step2>Select any language exсept EN, DE</step2>
+                <step3>Click button 'Trade'</step3>
+                <step4>Click link 'Privacy policy'</step4>
+        </steps>
+        <ER>The 'Privacy policy' page is opened in selected language</ER>
+        <AR>The 'Privacy policy' page is opened in English</AR>
+        <attach>Link</attach>
+        <comments>Null</comments>
+</bugReport>
